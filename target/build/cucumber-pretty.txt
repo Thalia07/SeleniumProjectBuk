@@ -1,0 +1,6 @@
+
+@Comercio @Login
+Escenario: Realizar inicio de sesión exitoso                [90m# src/test/resources/features/buk.feature:9[0m
+  [32mDado [0m[32mque el usuario abre la pagina web[0m                    [90m# com.bdd.StepsDefinition.LoginStepsDefinitions.queElUsuarioAbreLaPaginaWeb()[0m
+  [32mCuando [0m[32mingresa sus credenciales[0m                           [90m# com.bdd.StepsDefinition.LoginStepsDefinitions.ingresaSusCredenciales()[0m
+  [32mEntonces [0m[32mse visualiza el dashboard y se valida el usuario[0m [90m# com.bdd.StepsDefinition.LoginStepsDefinitions.seVisualizaElDashboardYSeValidaElUsuario()[0m
